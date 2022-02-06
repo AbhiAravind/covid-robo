@@ -31,7 +31,9 @@ We’re going to install OpenCV on the Raspberry Pi for our Python project. Note
 We are covering the Pip install here because it’s fast and easy. It will work for most OpenCV projects, and it’s an easy solution.
 #### [Pip install OpenCV](https://www.jeremymorgan.com/tutorials/raspberry-pi/how-to-install-opencv-raspberry-pi/)
 
-### 
+### Working
+---
+
 
 
 

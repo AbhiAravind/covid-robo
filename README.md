@@ -27,6 +27,7 @@
 * monitor or TV to connect to (via HDMI)
 * HDMI cables
 ### Downloading and Installing Raspberry Pi OS
+---
 #### [full tutorial can be found here](https://www.tomshardware.com/reviews/raspberry-pi-set-up-how-to,6029.html)
 
 ### Installing OpenCV on Raspberry Pi

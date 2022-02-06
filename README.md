@@ -7,6 +7,9 @@
 * Raspberry pi
 * arduino
 * Web Cam
+* Temperature sensor
+* Pressure sensor
+* Ultra sound sensor
 ## Setting up Raspberry Pi
 ***
  If you bought your Pi as part of a kit, you probably got everything you need right in the box, but if you just have the board, you'll need the following:
@@ -45,8 +48,8 @@ App Blocks
 * ![design](https://github.com/AbhiAravind/covid-robo/blob/main/blocks.png)
 
 ## Credits
-* [Alexander Alekhin](https://github.com/alalek) for haarcascades
-* 
+* [Alexander Alekhin](https://github.com/alalek) for haarcascades.
+* [Nithin Mathai]() for helping out with the hardware part.
 
 
 

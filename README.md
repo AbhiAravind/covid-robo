@@ -53,7 +53,9 @@ App Blocks
 * ![design](https://github.com/AbhiAravind/covid-robo/blob/main/blocks.png)
 
 #### Webview of The database
+A simple bootstrap web for showing the database.
 []()
+
 ## Setting up The Aurdino
 
 

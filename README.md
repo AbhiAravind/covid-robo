@@ -1,12 +1,19 @@
 # Covid-robo
 
-### A simple raspberry pi robot, which can recogonise people and detect there temperature and pressure
-
+## A simple raspberry pi robot 
+* recogonise people. 
+* detect temperature and pressure.
+* webview for the database
+* Can be controlled by android app
+* Disinfect itself
+* visual and audio output
+ 
 ## Requirement
 
 * Raspberry pi
 * arduino
 * Web Cam
+* Rover
 * Temperature sensor
 * Pressure sensor
 * Ultra sound sensor
@@ -34,8 +41,6 @@ We’re going to install OpenCV on the Raspberry Pi for our Python project. Note
 We are covering the Pip install here because it’s fast and easy. It will work for most OpenCV projects, and it’s an easy solution.
 #### [Pip install OpenCV](https://www.jeremymorgan.com/tutorials/raspberry-pi/how-to-install-opencv-raspberry-pi/)
 
-## Setting up The Aurdino
-
 ## Android App for controlling the robot
 
 The App developed using [MIT App Inventor](https://appinventor.mit.edu/)
@@ -46,6 +51,12 @@ App Design
 
 App Blocks
 * ![design](https://github.com/AbhiAravind/covid-robo/blob/main/blocks.png)
+
+#### Webview of The database
+[]()
+## Setting up The Aurdino
+
+
 
 ## Credits
 * [Alexander Alekhin](https://github.com/alalek) for haarcascades.

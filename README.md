@@ -1,6 +1,6 @@
 # Covid-robo
 
-### A simple raspberry pi robot, which can recognice people and detect there temperature and pressure
+### A simple raspberry pi robot, which can recogonise people and detect there temperature and pressure
 
 ## Requirement
 ---

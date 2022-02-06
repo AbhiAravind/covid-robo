@@ -45,7 +45,8 @@ App Blocks
 * ![design](https://github.com/AbhiAravind/covid-robo/blob/main/blocks.png)
 
 ## Credits
-* [Alexander Alekhin](https://github.com/alalek)
+* [Alexander Alekhin](https://github.com/alalek) for haarcascades
+* 
 
 
 

@@ -56,10 +56,6 @@ App Blocks
 A simple bootstrap web for showing the database.
 []()
 
-## Setting up The Aurdino
-
-
-
 ## Credits
 * [Alexander Alekhin](https://github.com/alalek) for haarcascades.
 * [Nithin Mathai]() for helping out with the hardware part.

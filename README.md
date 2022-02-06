@@ -37,11 +37,15 @@ We are covering the Pip install here because it’s fast and easy. It will work 
 ***
 The App developed using [MIT App Inventor](https://appinventor.mit.edu/)
 >MIT App Inventor is an intuitive, visual programming environment that allows everyone – even children – to build fully functional apps for Android phones, iPhones, and Android/iOS tablets
-![design](https://github.com/AbhiAravind/covid-robo/blob/main/bt_rmt.png)
-![design]()
 
+App Design
+* ![design](https://github.com/AbhiAravind/covid-robo/blob/main/bt_rmt.png)
 
+App Blocks
+* ![design](https://github.com/AbhiAravind/covid-robo/blob/main/blocks.png)
 
+## Credits
+* [Alexander Alekhin](https://github.com/alalek)
 
 
 

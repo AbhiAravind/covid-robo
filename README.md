@@ -1,12 +1,12 @@
 # Covid-robo
 
 ## A simple raspberry pi robot 
-* recogonise people. 
-* detect temperature and pressure.
-* webview for the database
+* Recogonise people. 
+* Detect temperature and pressure.
+* Webview for the database
 * Can be controlled by android app
 * Disinfect itself
-* visual and audio output
+* Visual and audio output
  
 ## Requirement
 
